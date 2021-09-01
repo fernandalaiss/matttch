@@ -40,6 +40,10 @@ function tatuador(){
     location.href = "tatuador.html";
 }
 
+function verEstudio(){
+    location.href = "estudio.html";
+}
+
 function clickTrial(){
 	if (document.getElementById("img2").src == "https://brightercraft.com/wp-content/uploads/2018/10/img_3639.jpg") {
 		location.href  = "trial_success.html";

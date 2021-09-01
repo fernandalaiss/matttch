@@ -298,6 +298,13 @@ li a:hover {
     margin-left: 15px;
 }
 
+.studPic{
+    width: 230px;
+    height: 140px;
+    border-radius: 15px;
+    border-color:#FD7101;
+    border:#E5E5E5 solid;
+}
 
 .prof img{
     
